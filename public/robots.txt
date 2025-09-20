@@ -1,0 +1,15 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /dashboard/
+Disallow: /auth/
+Disallow: /api/
+
+# Host
+Host: https://nanimade.com
+
+# Sitemaps
+Sitemap: https://nanimade.com/sitemap.xml
+Sitemap: https://nanimade.com/sitemap-products.xml
+Sitemap: https://nanimade.com/sitemap-recipes.xml
